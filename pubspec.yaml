@@ -1,0 +1,14 @@
+name: i_am_rich
+description: A simple app to display a message.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/diamond.png
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
